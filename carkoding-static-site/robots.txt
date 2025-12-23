@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://carkoding.com/sitemap.xml
